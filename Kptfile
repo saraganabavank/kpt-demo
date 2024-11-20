@@ -7,4 +7,4 @@ upstream:
   git:
     repo: https://github.com/saraganabavank/kpt-demo
     directory: /
-    ref: v0.9
+    ref: main
